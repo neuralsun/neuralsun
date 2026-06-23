@@ -1,7 +1,6 @@
 ## 👨‍💻 About Me
 
-A **medical imaging and artificial intelligence enthusiast**, interested in medical image analysis, computer vision, deep learning, and multimodal AI.
-
+A **medical imaging and artificial intelligence enthusiast**
 <details>
 <summary><b>🔬 Research Interests</b></summary>
 <br>
