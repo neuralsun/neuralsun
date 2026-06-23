@@ -1,8 +1,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **medical imaging and artificial intelligence enthusiast**. I enjoy learning new technologies, reading research papers, reproducing open-source projects, and turning ideas into practical code. My interests include **medical image analysis, image processing, computer vision, deep learning, image registration, image segmentation, multimodal large models, vision-language models, and intelligent decision-support systems**. I believe meaningful research should not only improve model performance, but also be reproducible, understandable, and useful in real-world applications.
-
+ a **medical imaging and artificial intelligence enthusiast**.
 ## 🔬 Research Interests
 
 ### 🖼️ Image Processing and Computer Vision
@@ -26,15 +25,19 @@ Investigating vision-language models, multimodal reasoning, retrieval-augmented 
 Building AI systems that connect visual perception, language understanding, domain knowledge, and decision support.
 
 ---
+## 🧰 Core Skills
 
-## 🧰 Tech Stack
+| Skill                 | Proficiency | Focus                                             |
+| --------------------- | ----------- | ------------------------------------------------- |
+| **Python**            | Advanced    | Research development, data processing, automation |
+| **PyTorch**           | Advanced    | Deep learning model training and evaluation       |
+| **SimpleITK & MONAI** | Proficient  | Medical image processing and analysis             |
+| **OpenCV**            | Proficient  | Computer vision and image processing              |
+| **Linux & Git**       | Proficient  | Experimental workflows and version control        |
+| **Docker**            | Familiar    | Environment deployment and reproducibility        |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,cpp,linux,git,github,docker,vscode,anaconda" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  Python · PyTorch · OpenCV · NumPy · Pandas · SimpleITK · MONAI · Git · Linux · Docker
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,git,docker" alt="Core Skills" />
 </p>
 
 ---
