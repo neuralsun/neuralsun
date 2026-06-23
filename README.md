@@ -1,25 +1,17 @@
-<h1 align="center">Hi, I'm Kien Vu Xuan 👋</h1>
 
-<p align="center">
-  Graduate Student · AI Researcher · Open-Source Enthusiast
-</p>
 
-## About Me
+I am a AI researcher focusing on **image processing, deep learning, medical image analysis, and multimodal large language models**.
 
-I am a graduate student interested in **image processing, deep learning, medical image analysis, computer vision, and multimodal large language models**. I enjoy turning research ideas into reproducible code and practical AI applications.
+My current research explores how deep learning can improve the understanding and analysis of complex visual data, especially in medical imaging. I am particularly interested in **medical image registration, image segmentation, computer vision, vision-language models, retrieval-augmented generation, and intelligent decision-support systems**.
 
-## Tech Stack
+I enjoy transforming research ideas into reproducible code and practical applications, and I am always open to academic discussions, open-source collaboration, and interdisciplinary research.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,git,github,docker,vscode" alt="Tech Stack" />
-</p>
+### Research Interests
 
-## Contact
-
-* GitHub: [@kienvuxuan03](https://github.com/kienvuxuan03)
-* Email: [kienvuxuan03@gmail.com](mailto:kienvuxuan03@gmail.com)
-
-<p align="center">
-  <em>Keep learning, keep exploring, and build something meaningful.</em>
-</p>
-::: ​​
+* Medical image registration and segmentation
+* Image processing and computer vision
+* Deep learning and representation learning
+* Multimodal large language models
+* Vision-language models and RAG
+* AI-assisted clinical decision support
+* Intelligent visual analysis systems
