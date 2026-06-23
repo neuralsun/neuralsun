@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kien Vu Xuan 👋</h1>
+<h1 align="center">Hi there, I'm neuralsun 👋</h1>
 
 <p align="center">
   <strong>Graduate Student · Medical Image Computing · Deep Learning · Multimodal AI</strong>
